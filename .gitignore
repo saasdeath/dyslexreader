@@ -1,0 +1,3 @@
+# Your books stay private: never commit them.
+books/
+.DS_Store

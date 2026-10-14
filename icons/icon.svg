@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#2f5d7c"/>
+  <path d="M84 146c60-24 120-20 172 14v228c-52-32-112-36-172-14z" fill="#f6efdc"/>
+  <path d="M428 146c-60-24-120-20-172 14v228c52-32 112-36 172-14z" fill="#fcf7ea"/>
+  <path d="M256 160v228" stroke="#2f5d7c" stroke-width="6" opacity=".35"/>
+  <g fill="#2f5d7c" opacity=".38">
+    <rect x="116" y="196" width="104" height="13" rx="6.5"/><rect x="116" y="232" width="92" height="13" rx="6.5"/>
+    <rect x="116" y="268" width="104" height="13" rx="6.5"/><rect x="116" y="304" width="70" height="13" rx="6.5"/>
+    <rect x="292" y="304" width="104" height="13" rx="6.5"/>
+  </g>
+  <rect x="284" y="186" width="120" height="34" rx="9" fill="#ffc81e" opacity=".9"/>
+  <rect x="292" y="196" width="104" height="13" rx="6.5" fill="#2f5d7c" opacity=".55"/>
+  <rect x="292" y="232" width="92" height="13" rx="6.5" fill="#2f5d7c" opacity=".38"/>
+  <rect x="292" y="268" width="104" height="13" rx="6.5" fill="#2f5d7c" opacity=".38"/>
+</svg>
