@@ -3,7 +3,7 @@
 //
 // IMPORTANT: change VERSION whenever you change any app file (or add one to FILES),
 // otherwise installed devices keep using the old copy.
-const VERSION = 'reader-v1';
+const VERSION = 'reader-v2';
 
 const FILES = [
   './',
